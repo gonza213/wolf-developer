@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.12981457.js";import{_ as t,e as s,f as a,F as r,k as o}from"./index.59ad9dfc.js";const c={},p=o("span",{class:"text-h3 text-dark"}," SUSCRIPTORES ",-1);function _(n,i,d,f,l,m){return s(),a(e,{class:"q-pa-md bg-white"},{default:r(()=>[p]),_:1})}var h=t(c,[["render",_]]);export{h as default};
