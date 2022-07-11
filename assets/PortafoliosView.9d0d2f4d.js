@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.00dc6b8f.js";import{_ as t,e as a,f as s,F as o,k as r}from"./index.29806dde.js";const c={},_=r("span",{class:"text-h3 text-dark"}," PORTAFOLIOS ",-1);function n(p,f,i,d,l,m){return a(),s(e,{class:"q-pa-md bg-white"},{default:o(()=>[_]),_:1})}var u=t(c,[["render",n]]);export{u as default};
